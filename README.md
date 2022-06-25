@@ -1,7 +1,10 @@
 # ExtractData
 Packages installed
   swagger
-  Testing data using swagger
+  Test data by using swagger
+
+  MailReadController 
+   Action --> ExtractEmail(string email);
 
 
 Scenario
